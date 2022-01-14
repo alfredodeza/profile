@@ -19,9 +19,9 @@ You can find my [personal website](https://example.com) interesting, and you can
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Azure Remote Compute for VSCode](https://www.youtube.com/watch?v=Fa_ubqmJcMw)
 - [Pass the Azure Fundamentals certification exam!](https://www.youtube.com/watch?v=6F3El6zuUm0)
 - [Despegando Con Python! ¡Crea tu primer programa en Python!](https://www.youtube.com/watch?v=D7E-1SIN-jk)
 - [Despegando Con Python! Funciones y Módulos](https://www.youtube.com/watch?v=51npm0NCNXk)
 - [Remote Kubernetes Environment](https://www.youtube.com/watch?v=spdyUazZ57M)
-- [Build a useful Python Decorator](https://www.youtube.com/watch?v=rSRT_eRTBIM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
