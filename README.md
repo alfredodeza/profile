@@ -19,9 +19,9 @@ You can find my [personal website](https://example.com) interesting, and you can
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build a Python command line tool in 20 seconds](https://www.youtube.com/watch?v=xYLhBCx6RSk)
 - [Save on Azure VMs](https://www.youtube.com/watch?v=rAWAqpIky80)
 - [Pytest and Vim](https://www.youtube.com/watch?v=a31CJSIEfBw)
 - [SAMBA shares on Azure VMs](https://www.youtube.com/watch?v=uJrevcu2KcE)
 - [Azure Remote Compute for VSCode](https://www.youtube.com/watch?v=Fa_ubqmJcMw)
-- [Pass the Azure Fundamentals certification exam!](https://www.youtube.com/watch?v=6F3El6zuUm0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
