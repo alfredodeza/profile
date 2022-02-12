@@ -19,9 +19,9 @@ You can find my [personal website](https://example.com) interesting, and you can
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Build a robust Python CLI](https://www.youtube.com/watch?v=g2JGmA4vmoU)
+- [What does if __name__ == "__main__": do?](https://www.youtube.com/watch?v=RVqmZ7Xwgy8)
+- [Build a Python CLI with argparse](https://www.youtube.com/watch?v=g2JGmA4vmoU)
 - [Easy Python CLI!](https://www.youtube.com/watch?v=DrmdOb-EEMw)
 - [February 4, 2022](https://www.youtube.com/watch?v=q0zGYmPSUzw)
 - [Build a Python command line tool in 20 seconds](https://www.youtube.com/watch?v=xYLhBCx6RSk)
-- [Save on Azure VMs](https://www.youtube.com/watch?v=rAWAqpIky80)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
