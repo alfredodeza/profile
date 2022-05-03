@@ -19,9 +19,9 @@ You can find my [personal website](https://example.com) interesting, and you can
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Python project structure for Azure web apps](https://www.youtube.com/watch?v=bSw_elmGrew)
 - [Azure web app deployment architectural diagram](https://www.youtube.com/watch?v=SXPMV8R6u0Q)
 - [SQL for CSV datasets using Databricks](https://www.youtube.com/watch?v=LI5BPFTmeNU)
 - [What does yield do in Python?](https://www.youtube.com/watch?v=NL3QuIQeVtk)
 - [Azure Databricks with Pandas and Open Datasets](https://www.youtube.com/watch?v=MZB8EFobzh4)
-- [What does if __name__ == "__main__": do?](https://www.youtube.com/watch?v=RVqmZ7Xwgy8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
