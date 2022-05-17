@@ -19,9 +19,9 @@ You can find my [personal website](https://example.com) interesting, and you can
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [SAMBA shares on Azure VMs](https://www.youtube.com/watch?v=0YrcplZVd8M)
 - [Azure Databricks with Pandas and Open Datasets](https://www.youtube.com/watch?v=hxJqn41bwp0)
 - [Azure Web Apps for containers](https://www.youtube.com/watch?v=xMqerRBUpCA)
 - [Python project structure for Azure web apps](https://www.youtube.com/watch?v=bSw_elmGrew)
 - [Azure web app deployment architectural diagram](https://www.youtube.com/watch?v=SXPMV8R6u0Q)
-- [SQL for CSV datasets using Databricks](https://www.youtube.com/watch?v=LI5BPFTmeNU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
