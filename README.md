@@ -19,9 +19,9 @@ You can find my [personal website](https://example.com) interesting, and you can
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Basic Conda commands for beginners](https://www.youtube.com/watch?v=O4YBRfriAZk)
 - [Run Python in GitHub Actions](https://www.youtube.com/watch?v=o2o_xF6NhD0)
 - [Python Dictionaries course](https://www.youtube.com/watch?v=Wu7j8z4B-1Y)
 - [SAMBA shares on Azure VMs](https://www.youtube.com/watch?v=0YrcplZVd8M)
 - [Azure Databricks with Pandas and Open Datasets](https://www.youtube.com/watch?v=hxJqn41bwp0)
-- [Azure Web Apps for containers](https://www.youtube.com/watch?v=xMqerRBUpCA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
