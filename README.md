@@ -19,9 +19,9 @@ You can find my [personal website](https://example.com) interesting, and you can
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [GitHub Codespaces with custom dotfiles](https://www.youtube.com/watch?v=H4B37bZdYsk)
 - [Automated deletion of Azure resources](https://www.youtube.com/watch?v=Nd4cwxROq30)
 - [Azure Login in GitHub Actions](https://www.youtube.com/watch?v=Z06OyG4i18w)
 - [Use VSCode for the web](https://www.youtube.com/watch?v=_9gXA8Ign8o)
 - [Basic Conda commands for beginners](https://www.youtube.com/watch?v=O4YBRfriAZk)
-- [Run Python in GitHub Actions](https://www.youtube.com/watch?v=o2o_xF6NhD0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
