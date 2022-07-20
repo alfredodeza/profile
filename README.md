@@ -23,5 +23,5 @@ You can find my [personal website](https://example.com) interesting, and you can
 - [MLOps packaging: HuggingFace and Azure Container Registry](https://www.youtube.com/watch?v=_n8JKdRFgog)
 - [MLOps packaging: HuggingFace and Docker Hub](https://www.youtube.com/watch?v=Jo98GLhw6BM)
 - [GitHub Codespaces with custom dotfiles](https://www.youtube.com/watch?v=H4B37bZdYsk)
-- [Automated deletion of Azure resources](https://www.youtube.com/watch?v=Nd4cwxROq30)
+- [Get Azure spending under control!](https://www.youtube.com/watch?v=Nd4cwxROq30)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
