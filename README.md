@@ -19,9 +19,9 @@ You can find my [personal website](https://example.com) interesting, and you can
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt56bfntHoZFI60G5NIiTww?label=YouTube%20Subscribers&style=social)
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Distroless containers with Rust](https://www.youtube.com/watch?v=ZscxhFW6cUI)
 - [AI-900 Get started with AI](https://www.youtube.com/watch?v=wNGMHhiIaNM)
 - [Setting up your Rust development environment](https://www.youtube.com/watch?v=hpfCOmZL6XM)
 - [Deploy Rust on Azure Functions](https://www.youtube.com/watch?v=cFAhdgwg5nc)
 - [Free! Develop on Linux with Codespaces](https://www.youtube.com/watch?v=qYIZqMhvgVc)
-- [Introduction to Azure AutoML using regression](https://www.youtube.com/watch?v=auQAXH0wtjo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
