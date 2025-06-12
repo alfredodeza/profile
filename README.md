@@ -23,5 +23,5 @@ You can find my [personal website](https://example.com) interesting, and you can
 - [AI-900 Get started with AI](https://www.youtube.com/watch?v=wNGMHhiIaNM)
 - [Setting up your Rust development environment](https://www.youtube.com/watch?v=hpfCOmZL6XM)
 - [Deploy Rust on Azure Functions](https://www.youtube.com/watch?v=cFAhdgwg5nc)
-- [Free! Develop on Linux with Codespaces](https://www.youtube.com/watch?v=qYIZqMhvgVc)
+- [Free! Develop on Linux with Codespaces](https://www.youtube.com/shorts/qYIZqMhvgVc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
